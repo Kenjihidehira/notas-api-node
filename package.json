@@ -1,0 +1,21 @@
+{
+  "name": "notas-api-node",
+  "version": "1.0.0",
+  "description": "API de notas feita com Node.js puro, sem frameworks.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "notes",
+    "http"
+  ],
+  "author": "Kenjihidehira",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
